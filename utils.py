@@ -1,3 +1,4 @@
+import numpy as np
 from scipy import stats
 
 
@@ -23,3 +24,23 @@ def hypergeometric_test(total_genes_expressed, n_genes_of_interest, n_genes_pick
     hypergeom_model = stats.hypergeom(M=total_genes_expressed, n=n_genes_of_interest, N=n_genes_picked)
     p_val = hypergeom_model.sf(n_overlap-1)
     return p_val
+
+
+def adjust_p_value_fdr(p_val_list):
+    '''
+    Benjamini and Hochberg method: adjusting p-value for multiple tests
+    
+    Parameters
+    ----------
+    p_val_list : list
+    A list of p-values to be adjusted.
+
+    Returns
+    -------
+    The adjusted p-values.
+    '''
+    m = len(p_val_list)
+    k = np.argsort(p_val_list) + 1
+    p_val_adj = np.array(p_val_list) * m/k
+    p_val_adj[p_val_adj>=1] = 1
+    return p_val_adj

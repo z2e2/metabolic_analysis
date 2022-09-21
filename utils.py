@@ -44,3 +44,30 @@ def adjust_p_value_fdr(p_val_list):
     p_val_adj = np.array(p_val_list) * m/k
     p_val_adj[p_val_adj>=1] = 1
     return p_val_adj
+
+def get_overlapping_met_genes(met_dict, all_genes, verb = False):
+    '''
+    Get the genes in the metabolism pathway that were also captured in a dataset
+
+    Parameters
+    ----------
+    met_dict : dict
+    For each metabolism term of interest, the value is a list of genes associated with that term.
+    all_genes : list
+    All of the genes captured in a dataset
+    verb : bool
+    Optionally print out the number of genes that are overlapping between the metabolism terms and data
+
+    Returns
+    ----------
+    overlap_res : A filtered metabolism dict with non-shared genes removed.
+    n_removed_terms : for each metabolism term, the number of genes removed
+    '''
+    overlap_res = {}
+    n_removed_terms = {}
+    for k,v in met_dict.items():
+        overlap_res[k] = [i for i in v if i in all_genes]
+        if verb:
+            print(f'{k}\toriginal: {len(v)} | overlapping: {len(overlap_res[k])} | removed: {len(v) - len(overlap_res[k])}')
+        n_removed_terms[k] = len(v) - len(overlap_res[k])
+    return overlap_res, n_removed_terms

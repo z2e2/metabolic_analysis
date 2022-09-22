@@ -1,0 +1,1540 @@
+,term,variable,value,p,padj
+0,Fatty acid oxidation,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+1,Nucleotide interconversion,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+2,Keratan sulfate degradation,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+3,Sphingolipid metabolism,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+4,Tyrosine metabolism,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+5,Keratan sulfate synthesis,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+6,Steroid metabolism,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+7,Chondroitin synthesis,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+8,Tryptophan metabolism,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+9,Glycerophospholipid metabolism,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+10,Inositol phosphate metabolism,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+11,Folate metabolism,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+12,"Valine, leucine, and isoleucine metabolism",5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+13,Chondroitin sulfate degradation,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+14,Cholesterol metabolism,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+15,Arginine and Proline Metabolism,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+16,Bile acid synthesis,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+17,Fatty acid synthesis,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+18,"Glycine, serine, alanine and threonine metabolism",5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+19,Pyrimidine catabolism,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+20,Blood group synthesis,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+21,Pyruvate metabolism,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+22,Aminosugar metabolism,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+23,Heparan sulfate degradation,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+24,Urea cycle,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+25,Purine catabolism,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+26,Eicosanoid metabolism,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+27,Methionine and cysteine metabolism,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+28,Lysine metabolism,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+29,Starch and sucrose metabolism,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+30,Pentose phosphate pathway,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+31,NAD metabolism,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+32,Vitamin A metabolism,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+33,beta-Alanine metabolism,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+34,Triacylglycerol synthesis,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+35,Glyoxylate and dicarboxylate metabolism,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+36,Glutamate metabolism,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+37,Alanine and aspartate metabolism,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+38,Histidine metabolism,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+39,Selenoamino acid metabolism,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+40,Tetrahydrobiopterin metabolism,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+41,Glutathione metabolism,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+42,Propanoate metabolism,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+43,Biotin metabolism,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+44,Limonene and pinene degradation,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+45,Phenylalanine metabolism,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+46,ROS detoxification,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+47,Glycolysis/gluconeogenesis,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+48,Pyrimidine synthesis,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+49,Heme synthesis,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+50,Galactose metabolism,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+51,Purine synthesis,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+52,"Transport, extracellular",5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+53,Miscellaneous,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+54,Hyaluronan metabolism,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+55,Fructose and mannose metabolism,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+56,C5-branched dibasic acid metabolism,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+57,Oxidative phosphorylation,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+58,N-glycan degradation,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+59,Nucleotide salvage pathway,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+60,Vitamin B2 metabolism,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+61,Butanoate metabolism,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+62,Vitamin C metabolism,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+63,Cytochrome metabolism,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+64,Vitamin B6 metabolism,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+65,Taurine and hypotaurine metabolism,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+66,Phosphatidylinositol phosphate metabolism,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+67,"Transport, mitochondrial",5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+68,Nucleotide sugar metabolism,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+69,Alkaloid synthesis,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+70,CoA synthesis,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+71,"Stilbene, coumarine and lignin synthesis",5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+72,O-glycan synthesis,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+73,Ubiquinone synthesis,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+74,CoA catabolism,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+75,Citric acid cycle,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+76,"Transport, lysosomal",5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+77,Vitamin B12 metabolism,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+78,N-glycan synthesis,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+79,D-alanine metabolism,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+80,Thiamine metabolism,5BA_diffexpr-nonnaive-cluster1,1.0,1.0,1.0
+81,Fatty acid oxidation,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+82,Nucleotide interconversion,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+83,Keratan sulfate degradation,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+84,Sphingolipid metabolism,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+85,Tyrosine metabolism,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+86,Keratan sulfate synthesis,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+87,Steroid metabolism,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+88,Chondroitin synthesis,5BB_diffexpr-nonnaive-cluster2,0.11810052241023898,0.11810052241023898,0.18031419046563274
+89,Tryptophan metabolism,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+90,Glycerophospholipid metabolism,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+91,Inositol phosphate metabolism,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+92,Folate metabolism,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+93,"Valine, leucine, and isoleucine metabolism",5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+94,Chondroitin sulfate degradation,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+95,Cholesterol metabolism,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+96,Arginine and Proline Metabolism,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+97,Bile acid synthesis,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+98,Fatty acid synthesis,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+99,"Glycine, serine, alanine and threonine metabolism",5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+100,Pyrimidine catabolism,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+101,Blood group synthesis,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+102,Pyruvate metabolism,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+103,Aminosugar metabolism,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+104,Heparan sulfate degradation,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+105,Urea cycle,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+106,Purine catabolism,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+107,Eicosanoid metabolism,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+108,Methionine and cysteine metabolism,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+109,Lysine metabolism,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+110,Starch and sucrose metabolism,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+111,Pentose phosphate pathway,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+112,NAD metabolism,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+113,Vitamin A metabolism,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+114,beta-Alanine metabolism,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+115,Triacylglycerol synthesis,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+116,Glyoxylate and dicarboxylate metabolism,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+117,Glutamate metabolism,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+118,Alanine and aspartate metabolism,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+119,Histidine metabolism,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+120,Selenoamino acid metabolism,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+121,Tetrahydrobiopterin metabolism,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+122,Glutathione metabolism,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+123,Propanoate metabolism,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+124,Biotin metabolism,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+125,Limonene and pinene degradation,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+126,Phenylalanine metabolism,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+127,ROS detoxification,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+128,Glycolysis/gluconeogenesis,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+129,Pyrimidine synthesis,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+130,Heme synthesis,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+131,Galactose metabolism,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+132,Purine synthesis,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+133,"Transport, extracellular",5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+134,Miscellaneous,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+135,Hyaluronan metabolism,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+136,Fructose and mannose metabolism,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+137,C5-branched dibasic acid metabolism,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+138,Oxidative phosphorylation,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+139,N-glycan degradation,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+140,Nucleotide salvage pathway,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+141,Vitamin B2 metabolism,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+142,Butanoate metabolism,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+143,Vitamin C metabolism,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+144,Cytochrome metabolism,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+145,Vitamin B6 metabolism,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+146,Taurine and hypotaurine metabolism,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+147,Phosphatidylinositol phosphate metabolism,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+148,"Transport, mitochondrial",5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+149,Nucleotide sugar metabolism,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+150,Alkaloid synthesis,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+151,CoA synthesis,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+152,"Stilbene, coumarine and lignin synthesis",5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+153,O-glycan synthesis,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+154,Ubiquinone synthesis,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+155,CoA catabolism,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+156,Citric acid cycle,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+157,"Transport, lysosomal",5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+158,Vitamin B12 metabolism,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+159,N-glycan synthesis,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+160,D-alanine metabolism,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+161,Thiamine metabolism,5BB_diffexpr-nonnaive-cluster2,1.0,1.0,1.0
+162,Fatty acid oxidation,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+163,Nucleotide interconversion,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+164,Keratan sulfate degradation,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+165,Sphingolipid metabolism,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+166,Tyrosine metabolism,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+167,Keratan sulfate synthesis,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+168,Steroid metabolism,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+169,Chondroitin synthesis,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+170,Tryptophan metabolism,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+171,Glycerophospholipid metabolism,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+172,Inositol phosphate metabolism,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+173,Folate metabolism,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+174,"Valine, leucine, and isoleucine metabolism",5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+175,Chondroitin sulfate degradation,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+176,Cholesterol metabolism,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+177,Arginine and Proline Metabolism,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+178,Bile acid synthesis,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+179,Fatty acid synthesis,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+180,"Glycine, serine, alanine and threonine metabolism",5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+181,Pyrimidine catabolism,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+182,Blood group synthesis,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+183,Pyruvate metabolism,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+184,Aminosugar metabolism,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+185,Heparan sulfate degradation,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+186,Urea cycle,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+187,Purine catabolism,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+188,Eicosanoid metabolism,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+189,Methionine and cysteine metabolism,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+190,Lysine metabolism,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+191,Starch and sucrose metabolism,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+192,Pentose phosphate pathway,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+193,NAD metabolism,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+194,Vitamin A metabolism,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+195,beta-Alanine metabolism,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+196,Triacylglycerol synthesis,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+197,Glyoxylate and dicarboxylate metabolism,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+198,Glutamate metabolism,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+199,Alanine and aspartate metabolism,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+200,Histidine metabolism,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+201,Selenoamino acid metabolism,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+202,Tetrahydrobiopterin metabolism,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+203,Glutathione metabolism,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+204,Propanoate metabolism,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+205,Biotin metabolism,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+206,Limonene and pinene degradation,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+207,Phenylalanine metabolism,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+208,ROS detoxification,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+209,Glycolysis/gluconeogenesis,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+210,Pyrimidine synthesis,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+211,Heme synthesis,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+212,Galactose metabolism,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+213,Purine synthesis,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+214,"Transport, extracellular",5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+215,Miscellaneous,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+216,Hyaluronan metabolism,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+217,Fructose and mannose metabolism,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+218,C5-branched dibasic acid metabolism,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+219,Oxidative phosphorylation,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+220,N-glycan degradation,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+221,Nucleotide salvage pathway,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+222,Vitamin B2 metabolism,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+223,Butanoate metabolism,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+224,Vitamin C metabolism,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+225,Cytochrome metabolism,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+226,Vitamin B6 metabolism,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+227,Taurine and hypotaurine metabolism,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+228,Phosphatidylinositol phosphate metabolism,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+229,"Transport, mitochondrial",5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+230,Nucleotide sugar metabolism,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+231,Alkaloid synthesis,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+232,CoA synthesis,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+233,"Stilbene, coumarine and lignin synthesis",5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+234,O-glycan synthesis,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+235,Ubiquinone synthesis,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+236,CoA catabolism,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+237,Citric acid cycle,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+238,"Transport, lysosomal",5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+239,Vitamin B12 metabolism,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+240,N-glycan synthesis,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+241,D-alanine metabolism,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+242,Thiamine metabolism,5BC_diffexpr-nonnaive-cluster3,1.0,1.0,1.0
+243,Fatty acid oxidation,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+244,Nucleotide interconversion,5BD_diffexpr-nonnaive-cluster4,0.029788011585114443,0.029788011585114443,0.05355578251108777
+245,Keratan sulfate degradation,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+246,Sphingolipid metabolism,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+247,Tyrosine metabolism,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+248,Keratan sulfate synthesis,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+249,Steroid metabolism,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+250,Chondroitin synthesis,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+251,Tryptophan metabolism,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+252,Glycerophospholipid metabolism,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+253,Inositol phosphate metabolism,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+254,Folate metabolism,5BD_diffexpr-nonnaive-cluster4,0.1719935169673127,0.1719935169673127,0.3317017827226745
+255,"Valine, leucine, and isoleucine metabolism",5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+256,Chondroitin sulfate degradation,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+257,Cholesterol metabolism,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+258,Arginine and Proline Metabolism,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+259,Bile acid synthesis,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+260,Fatty acid synthesis,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+261,"Glycine, serine, alanine and threonine metabolism",5BD_diffexpr-nonnaive-cluster4,0.3262322523224913,0.3262322523224913,0.62680578817018
+262,Pyrimidine catabolism,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+263,Blood group synthesis,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+264,Pyruvate metabolism,5BD_diffexpr-nonnaive-cluster4,0.4228416478696248,0.4228416478696248,0.8258290559281124
+265,Aminosugar metabolism,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+266,Heparan sulfate degradation,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+267,Urea cycle,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+268,Purine catabolism,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+269,Eicosanoid metabolism,5BD_diffexpr-nonnaive-cluster4,0.2782884241549339,0.2782884241549339,0.5469806957528011
+270,Methionine and cysteine metabolism,5BD_diffexpr-nonnaive-cluster4,0.29058321484820376,0.29058321484820376,0.5718766849761964
+271,Lysine metabolism,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+272,Starch and sucrose metabolism,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+273,Pentose phosphate pathway,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+274,NAD metabolism,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+275,Vitamin A metabolism,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+276,beta-Alanine metabolism,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+277,Triacylglycerol synthesis,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+278,Glyoxylate and dicarboxylate metabolism,5BD_diffexpr-nonnaive-cluster4,0.3922751644329468,0.3922751644329468,0.7344421874237288
+279,Glutamate metabolism,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+280,Alanine and aspartate metabolism,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+281,Histidine metabolism,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+282,Selenoamino acid metabolism,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+283,Tetrahydrobiopterin metabolism,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+284,Glutathione metabolism,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+285,Propanoate metabolism,5BD_diffexpr-nonnaive-cluster4,0.2530598735835111,0.2530598735835111,0.4850051624471029
+286,Biotin metabolism,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+287,Limonene and pinene degradation,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+288,Phenylalanine metabolism,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+289,ROS detoxification,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+290,Glycolysis/gluconeogenesis,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+291,Pyrimidine synthesis,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+292,Heme synthesis,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+293,Galactose metabolism,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+294,Purine synthesis,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+295,"Transport, extracellular",5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+296,Miscellaneous,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+297,Hyaluronan metabolism,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+298,Fructose and mannose metabolism,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+299,C5-branched dibasic acid metabolism,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+300,Oxidative phosphorylation,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+301,N-glycan degradation,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+302,Nucleotide salvage pathway,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+303,Vitamin B2 metabolism,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+304,Butanoate metabolism,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+305,Vitamin C metabolism,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+306,Cytochrome metabolism,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+307,Vitamin B6 metabolism,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+308,Taurine and hypotaurine metabolism,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+309,Phosphatidylinositol phosphate metabolism,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+310,"Transport, mitochondrial",5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+311,Nucleotide sugar metabolism,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+312,Alkaloid synthesis,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+313,CoA synthesis,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+314,"Stilbene, coumarine and lignin synthesis",5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+315,O-glycan synthesis,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+316,Ubiquinone synthesis,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+317,CoA catabolism,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+318,Citric acid cycle,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+319,"Transport, lysosomal",5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+320,Vitamin B12 metabolism,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+321,N-glycan synthesis,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+322,D-alanine metabolism,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+323,Thiamine metabolism,5BD_diffexpr-nonnaive-cluster4,1.0,1.0,1.0
+324,Fatty acid oxidation,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+325,Nucleotide interconversion,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+326,Keratan sulfate degradation,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+327,Sphingolipid metabolism,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+328,Tyrosine metabolism,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+329,Keratan sulfate synthesis,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+330,Steroid metabolism,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+331,Chondroitin synthesis,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+332,Tryptophan metabolism,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+333,Glycerophospholipid metabolism,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+334,Inositol phosphate metabolism,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+335,Folate metabolism,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+336,"Valine, leucine, and isoleucine metabolism",5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+337,Chondroitin sulfate degradation,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+338,Cholesterol metabolism,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+339,Arginine and Proline Metabolism,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+340,Bile acid synthesis,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+341,Fatty acid synthesis,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+342,"Glycine, serine, alanine and threonine metabolism",5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+343,Pyrimidine catabolism,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+344,Blood group synthesis,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+345,Pyruvate metabolism,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+346,Aminosugar metabolism,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+347,Heparan sulfate degradation,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+348,Urea cycle,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+349,Purine catabolism,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+350,Eicosanoid metabolism,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+351,Methionine and cysteine metabolism,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+352,Lysine metabolism,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+353,Starch and sucrose metabolism,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+354,Pentose phosphate pathway,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+355,NAD metabolism,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+356,Vitamin A metabolism,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+357,beta-Alanine metabolism,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+358,Triacylglycerol synthesis,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+359,Glyoxylate and dicarboxylate metabolism,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+360,Glutamate metabolism,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+361,Alanine and aspartate metabolism,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+362,Histidine metabolism,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+363,Selenoamino acid metabolism,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+364,Tetrahydrobiopterin metabolism,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+365,Glutathione metabolism,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+366,Propanoate metabolism,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+367,Biotin metabolism,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+368,Limonene and pinene degradation,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+369,Phenylalanine metabolism,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+370,ROS detoxification,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+371,Glycolysis/gluconeogenesis,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+372,Pyrimidine synthesis,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+373,Heme synthesis,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+374,Galactose metabolism,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+375,Purine synthesis,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+376,"Transport, extracellular",5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+377,Miscellaneous,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+378,Hyaluronan metabolism,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+379,Fructose and mannose metabolism,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+380,C5-branched dibasic acid metabolism,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+381,Oxidative phosphorylation,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+382,N-glycan degradation,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+383,Nucleotide salvage pathway,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+384,Vitamin B2 metabolism,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+385,Butanoate metabolism,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+386,Vitamin C metabolism,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+387,Cytochrome metabolism,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+388,Vitamin B6 metabolism,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+389,Taurine and hypotaurine metabolism,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+390,Phosphatidylinositol phosphate metabolism,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+391,"Transport, mitochondrial",5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+392,Nucleotide sugar metabolism,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+393,Alkaloid synthesis,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+394,CoA synthesis,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+395,"Stilbene, coumarine and lignin synthesis",5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+396,O-glycan synthesis,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+397,Ubiquinone synthesis,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+398,CoA catabolism,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+399,Citric acid cycle,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+400,"Transport, lysosomal",5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+401,Vitamin B12 metabolism,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+402,N-glycan synthesis,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+403,D-alanine metabolism,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+404,Thiamine metabolism,5BE_diffexpr-nonnaive-cluster5,1.0,1.0,1.0
+405,Fatty acid oxidation,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+406,Nucleotide interconversion,5BF_diffexpr-nonnaive-cluster6,0.2768303708658925,0.2768303708658925,0.30280166365501676
+407,Keratan sulfate degradation,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+408,Sphingolipid metabolism,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+409,Tyrosine metabolism,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+410,Keratan sulfate synthesis,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+411,Steroid metabolism,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+412,Chondroitin synthesis,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+413,Tryptophan metabolism,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+414,Glycerophospholipid metabolism,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+415,Inositol phosphate metabolism,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+416,Folate metabolism,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+417,"Valine, leucine, and isoleucine metabolism",5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+418,Chondroitin sulfate degradation,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+419,Cholesterol metabolism,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+420,Arginine and Proline Metabolism,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+421,Bile acid synthesis,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+422,Fatty acid synthesis,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+423,"Glycine, serine, alanine and threonine metabolism",5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+424,Pyrimidine catabolism,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+425,Blood group synthesis,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+426,Pyruvate metabolism,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+427,Aminosugar metabolism,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+428,Heparan sulfate degradation,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+429,Urea cycle,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+430,Purine catabolism,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+431,Eicosanoid metabolism,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+432,Methionine and cysteine metabolism,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+433,Lysine metabolism,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+434,Starch and sucrose metabolism,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+435,Pentose phosphate pathway,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+436,NAD metabolism,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+437,Vitamin A metabolism,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+438,beta-Alanine metabolism,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+439,Triacylglycerol synthesis,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+440,Glyoxylate and dicarboxylate metabolism,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+441,Glutamate metabolism,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+442,Alanine and aspartate metabolism,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+443,Histidine metabolism,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+444,Selenoamino acid metabolism,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+445,Tetrahydrobiopterin metabolism,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+446,Glutathione metabolism,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+447,Propanoate metabolism,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+448,Biotin metabolism,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+449,Limonene and pinene degradation,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+450,Phenylalanine metabolism,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+451,ROS detoxification,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+452,Glycolysis/gluconeogenesis,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+453,Pyrimidine synthesis,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+454,Heme synthesis,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+455,Galactose metabolism,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+456,Purine synthesis,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+457,"Transport, extracellular",5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+458,Miscellaneous,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+459,Hyaluronan metabolism,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+460,Fructose and mannose metabolism,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+461,C5-branched dibasic acid metabolism,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+462,Oxidative phosphorylation,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+463,N-glycan degradation,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+464,Nucleotide salvage pathway,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+465,Vitamin B2 metabolism,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+466,Butanoate metabolism,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+467,Vitamin C metabolism,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+468,Cytochrome metabolism,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+469,Vitamin B6 metabolism,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+470,Taurine and hypotaurine metabolism,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+471,Phosphatidylinositol phosphate metabolism,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+472,"Transport, mitochondrial",5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+473,Nucleotide sugar metabolism,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+474,Alkaloid synthesis,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+475,CoA synthesis,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+476,"Stilbene, coumarine and lignin synthesis",5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+477,O-glycan synthesis,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+478,Ubiquinone synthesis,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+479,CoA catabolism,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+480,Citric acid cycle,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+481,"Transport, lysosomal",5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+482,Vitamin B12 metabolism,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+483,N-glycan synthesis,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+484,D-alanine metabolism,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+485,Thiamine metabolism,5BF_diffexpr-nonnaive-cluster6,1.0,1.0,1.0
+486,Fatty acid oxidation,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+487,Nucleotide interconversion,5BG_diffexpr-nonnaive-cluster8,0.15704031712985592,0.15704031712985592,0.1748806425925096
+488,Keratan sulfate degradation,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+489,Sphingolipid metabolism,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+490,Tyrosine metabolism,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+491,Keratan sulfate synthesis,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+492,Steroid metabolism,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+493,Chondroitin synthesis,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+494,Tryptophan metabolism,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+495,Glycerophospholipid metabolism,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+496,Inositol phosphate metabolism,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+497,Folate metabolism,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+498,"Valine, leucine, and isoleucine metabolism",5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+499,Chondroitin sulfate degradation,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+500,Cholesterol metabolism,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+501,Arginine and Proline Metabolism,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+502,Bile acid synthesis,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+503,Fatty acid synthesis,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+504,"Glycine, serine, alanine and threonine metabolism",5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+505,Pyrimidine catabolism,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+506,Blood group synthesis,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+507,Pyruvate metabolism,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+508,Aminosugar metabolism,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+509,Heparan sulfate degradation,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+510,Urea cycle,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+511,Purine catabolism,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+512,Eicosanoid metabolism,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+513,Methionine and cysteine metabolism,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+514,Lysine metabolism,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+515,Starch and sucrose metabolism,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+516,Pentose phosphate pathway,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+517,NAD metabolism,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+518,Vitamin A metabolism,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+519,beta-Alanine metabolism,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+520,Triacylglycerol synthesis,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+521,Glyoxylate and dicarboxylate metabolism,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+522,Glutamate metabolism,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+523,Alanine and aspartate metabolism,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+524,Histidine metabolism,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+525,Selenoamino acid metabolism,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+526,Tetrahydrobiopterin metabolism,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+527,Glutathione metabolism,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+528,Propanoate metabolism,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+529,Biotin metabolism,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+530,Limonene and pinene degradation,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+531,Phenylalanine metabolism,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+532,ROS detoxification,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+533,Glycolysis/gluconeogenesis,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+534,Pyrimidine synthesis,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+535,Heme synthesis,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+536,Galactose metabolism,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+537,Purine synthesis,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+538,"Transport, extracellular",5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+539,Miscellaneous,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+540,Hyaluronan metabolism,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+541,Fructose and mannose metabolism,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+542,C5-branched dibasic acid metabolism,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+543,Oxidative phosphorylation,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+544,N-glycan degradation,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+545,Nucleotide salvage pathway,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+546,Vitamin B2 metabolism,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+547,Butanoate metabolism,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+548,Vitamin C metabolism,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+549,Cytochrome metabolism,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+550,Vitamin B6 metabolism,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+551,Taurine and hypotaurine metabolism,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+552,Phosphatidylinositol phosphate metabolism,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+553,"Transport, mitochondrial",5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+554,Nucleotide sugar metabolism,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+555,Alkaloid synthesis,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+556,CoA synthesis,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+557,"Stilbene, coumarine and lignin synthesis",5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+558,O-glycan synthesis,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+559,Ubiquinone synthesis,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+560,CoA catabolism,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+561,Citric acid cycle,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+562,"Transport, lysosomal",5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+563,Vitamin B12 metabolism,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+564,N-glycan synthesis,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+565,D-alanine metabolism,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+566,Thiamine metabolism,5BG_diffexpr-nonnaive-cluster8,1.0,1.0,1.0
+567,Fatty acid oxidation,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+568,Nucleotide interconversion,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+569,Keratan sulfate degradation,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+570,Sphingolipid metabolism,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+571,Tyrosine metabolism,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+572,Keratan sulfate synthesis,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+573,Steroid metabolism,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+574,Chondroitin synthesis,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+575,Tryptophan metabolism,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+576,Glycerophospholipid metabolism,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+577,Inositol phosphate metabolism,5BH_diffexpr-nonnaive-cluster9,0.3417036388851755,0.3417036388851755,0.3565301018605323
+578,Folate metabolism,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+579,"Valine, leucine, and isoleucine metabolism",5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+580,Chondroitin sulfate degradation,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+581,Cholesterol metabolism,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+582,Arginine and Proline Metabolism,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+583,Bile acid synthesis,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+584,Fatty acid synthesis,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+585,"Glycine, serine, alanine and threonine metabolism",5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+586,Pyrimidine catabolism,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+587,Blood group synthesis,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+588,Pyruvate metabolism,5BH_diffexpr-nonnaive-cluster9,0.19961846045879209,0.19961846045879209,0.2516075435266839
+589,Aminosugar metabolism,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+590,Heparan sulfate degradation,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+591,Urea cycle,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+592,Purine catabolism,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+593,Eicosanoid metabolism,5BH_diffexpr-nonnaive-cluster9,0.12376452972314704,0.12376452972314704,0.15663948293085797
+594,Methionine and cysteine metabolism,5BH_diffexpr-nonnaive-cluster9,0.12984267029020047,0.12984267029020047,0.16446738236758726
+595,Lysine metabolism,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+596,Starch and sucrose metabolism,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+597,Pentose phosphate pathway,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+598,NAD metabolism,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+599,Vitamin A metabolism,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+600,beta-Alanine metabolism,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+601,Triacylglycerol synthesis,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+602,Glyoxylate and dicarboxylate metabolism,5BH_diffexpr-nonnaive-cluster9,0.182709544394347,0.182709544394347,0.2329660222227838
+603,Glutamate metabolism,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+604,Alanine and aspartate metabolism,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+605,Histidine metabolism,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+606,Selenoamino acid metabolism,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+607,Tetrahydrobiopterin metabolism,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+608,Glutathione metabolism,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+609,Propanoate metabolism,5BH_diffexpr-nonnaive-cluster9,0.11148248168220255,0.11148248168220255,0.1401728262327694
+610,Biotin metabolism,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+611,Limonene and pinene degradation,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+612,Phenylalanine metabolism,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+613,ROS detoxification,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+614,Glycolysis/gluconeogenesis,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+615,Pyrimidine synthesis,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+616,Heme synthesis,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+617,Galactose metabolism,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+618,Purine synthesis,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+619,"Transport, extracellular",5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+620,Miscellaneous,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+621,Hyaluronan metabolism,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+622,Fructose and mannose metabolism,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+623,C5-branched dibasic acid metabolism,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+624,Oxidative phosphorylation,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+625,N-glycan degradation,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+626,Nucleotide salvage pathway,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+627,Vitamin B2 metabolism,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+628,Butanoate metabolism,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+629,Vitamin C metabolism,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+630,Cytochrome metabolism,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+631,Vitamin B6 metabolism,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+632,Taurine and hypotaurine metabolism,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+633,Phosphatidylinositol phosphate metabolism,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+634,"Transport, mitochondrial",5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+635,Nucleotide sugar metabolism,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+636,Alkaloid synthesis,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+637,CoA synthesis,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+638,"Stilbene, coumarine and lignin synthesis",5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+639,O-glycan synthesis,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+640,Ubiquinone synthesis,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+641,CoA catabolism,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+642,Citric acid cycle,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+643,"Transport, lysosomal",5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+644,Vitamin B12 metabolism,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+645,N-glycan synthesis,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+646,D-alanine metabolism,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+647,Thiamine metabolism,5BH_diffexpr-nonnaive-cluster9,1.0,1.0,1.0
+648,Fatty acid oxidation,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+649,Nucleotide interconversion,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+650,Keratan sulfate degradation,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+651,Sphingolipid metabolism,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+652,Tyrosine metabolism,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+653,Keratan sulfate synthesis,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+654,Steroid metabolism,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+655,Chondroitin synthesis,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+656,Tryptophan metabolism,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+657,Glycerophospholipid metabolism,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+658,Inositol phosphate metabolism,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+659,Folate metabolism,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+660,"Valine, leucine, and isoleucine metabolism",5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+661,Chondroitin sulfate degradation,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+662,Cholesterol metabolism,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+663,Arginine and Proline Metabolism,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+664,Bile acid synthesis,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+665,Fatty acid synthesis,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+666,"Glycine, serine, alanine and threonine metabolism",5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+667,Pyrimidine catabolism,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+668,Blood group synthesis,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+669,Pyruvate metabolism,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+670,Aminosugar metabolism,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+671,Heparan sulfate degradation,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+672,Urea cycle,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+673,Purine catabolism,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+674,Eicosanoid metabolism,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+675,Methionine and cysteine metabolism,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+676,Lysine metabolism,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+677,Starch and sucrose metabolism,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+678,Pentose phosphate pathway,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+679,NAD metabolism,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+680,Vitamin A metabolism,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+681,beta-Alanine metabolism,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+682,Triacylglycerol synthesis,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+683,Glyoxylate and dicarboxylate metabolism,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+684,Glutamate metabolism,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+685,Alanine and aspartate metabolism,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+686,Histidine metabolism,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+687,Selenoamino acid metabolism,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+688,Tetrahydrobiopterin metabolism,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+689,Glutathione metabolism,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+690,Propanoate metabolism,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+691,Biotin metabolism,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+692,Limonene and pinene degradation,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+693,Phenylalanine metabolism,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+694,ROS detoxification,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+695,Glycolysis/gluconeogenesis,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+696,Pyrimidine synthesis,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+697,Heme synthesis,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+698,Galactose metabolism,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+699,Purine synthesis,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+700,"Transport, extracellular",5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+701,Miscellaneous,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+702,Hyaluronan metabolism,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+703,Fructose and mannose metabolism,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+704,C5-branched dibasic acid metabolism,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+705,Oxidative phosphorylation,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+706,N-glycan degradation,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+707,Nucleotide salvage pathway,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+708,Vitamin B2 metabolism,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+709,Butanoate metabolism,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+710,Vitamin C metabolism,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+711,Cytochrome metabolism,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+712,Vitamin B6 metabolism,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+713,Taurine and hypotaurine metabolism,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+714,Phosphatidylinositol phosphate metabolism,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+715,"Transport, mitochondrial",5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+716,Nucleotide sugar metabolism,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+717,Alkaloid synthesis,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+718,CoA synthesis,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+719,"Stilbene, coumarine and lignin synthesis",5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+720,O-glycan synthesis,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+721,Ubiquinone synthesis,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+722,CoA catabolism,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+723,Citric acid cycle,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+724,"Transport, lysosomal",5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+725,Vitamin B12 metabolism,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+726,N-glycan synthesis,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+727,D-alanine metabolism,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+728,Thiamine metabolism,5BI_diffexpr-nonnaive-cluster10,1.0,1.0,1.0
+729,Fatty acid oxidation,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+730,Nucleotide interconversion,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+731,Keratan sulfate degradation,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+732,Sphingolipid metabolism,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+733,Tyrosine metabolism,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+734,Keratan sulfate synthesis,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+735,Steroid metabolism,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+736,Chondroitin synthesis,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+737,Tryptophan metabolism,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+738,Glycerophospholipid metabolism,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+739,Inositol phosphate metabolism,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+740,Folate metabolism,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+741,"Valine, leucine, and isoleucine metabolism",5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+742,Chondroitin sulfate degradation,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+743,Cholesterol metabolism,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+744,Arginine and Proline Metabolism,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+745,Bile acid synthesis,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+746,Fatty acid synthesis,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+747,"Glycine, serine, alanine and threonine metabolism",5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+748,Pyrimidine catabolism,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+749,Blood group synthesis,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+750,Pyruvate metabolism,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+751,Aminosugar metabolism,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+752,Heparan sulfate degradation,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+753,Urea cycle,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+754,Purine catabolism,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+755,Eicosanoid metabolism,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+756,Methionine and cysteine metabolism,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+757,Lysine metabolism,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+758,Starch and sucrose metabolism,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+759,Pentose phosphate pathway,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+760,NAD metabolism,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+761,Vitamin A metabolism,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+762,beta-Alanine metabolism,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+763,Triacylglycerol synthesis,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+764,Glyoxylate and dicarboxylate metabolism,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+765,Glutamate metabolism,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+766,Alanine and aspartate metabolism,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+767,Histidine metabolism,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+768,Selenoamino acid metabolism,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+769,Tetrahydrobiopterin metabolism,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+770,Glutathione metabolism,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+771,Propanoate metabolism,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+772,Biotin metabolism,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+773,Limonene and pinene degradation,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+774,Phenylalanine metabolism,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+775,ROS detoxification,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+776,Glycolysis/gluconeogenesis,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+777,Pyrimidine synthesis,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+778,Heme synthesis,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+779,Galactose metabolism,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+780,Purine synthesis,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+781,"Transport, extracellular",5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+782,Miscellaneous,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+783,Hyaluronan metabolism,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+784,Fructose and mannose metabolism,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+785,C5-branched dibasic acid metabolism,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+786,Oxidative phosphorylation,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+787,N-glycan degradation,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+788,Nucleotide salvage pathway,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+789,Vitamin B2 metabolism,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+790,Butanoate metabolism,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+791,Vitamin C metabolism,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+792,Cytochrome metabolism,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+793,Vitamin B6 metabolism,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+794,Taurine and hypotaurine metabolism,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+795,Phosphatidylinositol phosphate metabolism,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+796,"Transport, mitochondrial",5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+797,Nucleotide sugar metabolism,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+798,Alkaloid synthesis,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+799,CoA synthesis,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+800,"Stilbene, coumarine and lignin synthesis",5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+801,O-glycan synthesis,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+802,Ubiquinone synthesis,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+803,CoA catabolism,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+804,Citric acid cycle,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+805,"Transport, lysosomal",5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+806,Vitamin B12 metabolism,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+807,N-glycan synthesis,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+808,D-alanine metabolism,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+809,Thiamine metabolism,5BJ_diffexpr-nonnaive-cluster11,1.0,1.0,1.0
+810,Fatty acid oxidation,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+811,Nucleotide interconversion,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+812,Keratan sulfate degradation,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+813,Sphingolipid metabolism,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+814,Tyrosine metabolism,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+815,Keratan sulfate synthesis,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+816,Steroid metabolism,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+817,Chondroitin synthesis,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+818,Tryptophan metabolism,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+819,Glycerophospholipid metabolism,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+820,Inositol phosphate metabolism,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+821,Folate metabolism,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+822,"Valine, leucine, and isoleucine metabolism",5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+823,Chondroitin sulfate degradation,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+824,Cholesterol metabolism,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+825,Arginine and Proline Metabolism,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+826,Bile acid synthesis,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+827,Fatty acid synthesis,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+828,"Glycine, serine, alanine and threonine metabolism",5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+829,Pyrimidine catabolism,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+830,Blood group synthesis,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+831,Pyruvate metabolism,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+832,Aminosugar metabolism,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+833,Heparan sulfate degradation,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+834,Urea cycle,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+835,Purine catabolism,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+836,Eicosanoid metabolism,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+837,Methionine and cysteine metabolism,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+838,Lysine metabolism,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+839,Starch and sucrose metabolism,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+840,Pentose phosphate pathway,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+841,NAD metabolism,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+842,Vitamin A metabolism,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+843,beta-Alanine metabolism,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+844,Triacylglycerol synthesis,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+845,Glyoxylate and dicarboxylate metabolism,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+846,Glutamate metabolism,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+847,Alanine and aspartate metabolism,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+848,Histidine metabolism,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+849,Selenoamino acid metabolism,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+850,Tetrahydrobiopterin metabolism,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+851,Glutathione metabolism,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+852,Propanoate metabolism,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+853,Biotin metabolism,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+854,Limonene and pinene degradation,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+855,Phenylalanine metabolism,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+856,ROS detoxification,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+857,Glycolysis/gluconeogenesis,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+858,Pyrimidine synthesis,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+859,Heme synthesis,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+860,Galactose metabolism,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+861,Purine synthesis,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+862,"Transport, extracellular",5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+863,Miscellaneous,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+864,Hyaluronan metabolism,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+865,Fructose and mannose metabolism,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+866,C5-branched dibasic acid metabolism,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+867,Oxidative phosphorylation,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+868,N-glycan degradation,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+869,Nucleotide salvage pathway,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+870,Vitamin B2 metabolism,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+871,Butanoate metabolism,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+872,Vitamin C metabolism,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+873,Cytochrome metabolism,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+874,Vitamin B6 metabolism,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+875,Taurine and hypotaurine metabolism,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+876,Phosphatidylinositol phosphate metabolism,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+877,"Transport, mitochondrial",5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+878,Nucleotide sugar metabolism,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+879,Alkaloid synthesis,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+880,CoA synthesis,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+881,"Stilbene, coumarine and lignin synthesis",5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+882,O-glycan synthesis,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+883,Ubiquinone synthesis,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+884,CoA catabolism,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+885,Citric acid cycle,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+886,"Transport, lysosomal",5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+887,Vitamin B12 metabolism,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+888,N-glycan synthesis,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+889,D-alanine metabolism,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+890,Thiamine metabolism,5BK_diffexpr-nonnaive-cluster12,1.0,1.0,1.0
+891,Fatty acid oxidation,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+892,Nucleotide interconversion,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+893,Keratan sulfate degradation,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+894,Sphingolipid metabolism,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+895,Tyrosine metabolism,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+896,Keratan sulfate synthesis,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+897,Steroid metabolism,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+898,Chondroitin synthesis,5BL_diffexpr-nonnaive-cluster13,0.10993735753132271,0.10993735753132271,0.438325371089911
+899,Tryptophan metabolism,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+900,Glycerophospholipid metabolism,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+901,Inositol phosphate metabolism,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+902,Folate metabolism,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+903,"Valine, leucine, and isoleucine metabolism",5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+904,Chondroitin sulfate degradation,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+905,Cholesterol metabolism,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+906,Arginine and Proline Metabolism,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+907,Bile acid synthesis,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+908,Fatty acid synthesis,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+909,"Glycine, serine, alanine and threonine metabolism",5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+910,Pyrimidine catabolism,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+911,Blood group synthesis,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+912,Pyruvate metabolism,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+913,Aminosugar metabolism,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+914,Heparan sulfate degradation,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+915,Urea cycle,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+916,Purine catabolism,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+917,Eicosanoid metabolism,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+918,Methionine and cysteine metabolism,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+919,Lysine metabolism,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+920,Starch and sucrose metabolism,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+921,Pentose phosphate pathway,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+922,NAD metabolism,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+923,Vitamin A metabolism,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+924,beta-Alanine metabolism,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+925,Triacylglycerol synthesis,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+926,Glyoxylate and dicarboxylate metabolism,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+927,Glutamate metabolism,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+928,Alanine and aspartate metabolism,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+929,Histidine metabolism,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+930,Selenoamino acid metabolism,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+931,Tetrahydrobiopterin metabolism,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+932,Glutathione metabolism,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+933,Propanoate metabolism,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+934,Biotin metabolism,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+935,Limonene and pinene degradation,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+936,Phenylalanine metabolism,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+937,ROS detoxification,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+938,Glycolysis/gluconeogenesis,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+939,Pyrimidine synthesis,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+940,Heme synthesis,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+941,Galactose metabolism,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+942,Purine synthesis,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+943,"Transport, extracellular",5BL_diffexpr-nonnaive-cluster13,0.0674525264017408,0.0674525264017408,0.3264447740008777
+944,Miscellaneous,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+945,Hyaluronan metabolism,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+946,Fructose and mannose metabolism,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+947,C5-branched dibasic acid metabolism,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+948,Oxidative phosphorylation,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+949,N-glycan degradation,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+950,Nucleotide salvage pathway,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+951,Vitamin B2 metabolism,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+952,Butanoate metabolism,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+953,Vitamin C metabolism,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+954,Cytochrome metabolism,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+955,Vitamin B6 metabolism,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+956,Taurine and hypotaurine metabolism,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+957,Phosphatidylinositol phosphate metabolism,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+958,"Transport, mitochondrial",5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+959,Nucleotide sugar metabolism,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+960,Alkaloid synthesis,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+961,CoA synthesis,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+962,"Stilbene, coumarine and lignin synthesis",5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+963,O-glycan synthesis,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+964,Ubiquinone synthesis,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+965,CoA catabolism,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+966,Citric acid cycle,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+967,"Transport, lysosomal",5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+968,Vitamin B12 metabolism,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+969,N-glycan synthesis,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+970,D-alanine metabolism,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+971,Thiamine metabolism,5BL_diffexpr-nonnaive-cluster13,1.0,1.0,1.0
+972,Fatty acid oxidation,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+973,Nucleotide interconversion,5BM_diffexpr-nonnaive-cluster14,0.1269760987670554,0.1269760987670554,1.0
+974,Keratan sulfate degradation,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+975,Sphingolipid metabolism,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+976,Tyrosine metabolism,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+977,Keratan sulfate synthesis,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+978,Steroid metabolism,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+979,Chondroitin synthesis,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+980,Tryptophan metabolism,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+981,Glycerophospholipid metabolism,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+982,Inositol phosphate metabolism,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+983,Folate metabolism,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+984,"Valine, leucine, and isoleucine metabolism",5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+985,Chondroitin sulfate degradation,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+986,Cholesterol metabolism,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+987,Arginine and Proline Metabolism,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+988,Bile acid synthesis,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+989,Fatty acid synthesis,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+990,"Glycine, serine, alanine and threonine metabolism",5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+991,Pyrimidine catabolism,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+992,Blood group synthesis,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+993,Pyruvate metabolism,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+994,Aminosugar metabolism,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+995,Heparan sulfate degradation,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+996,Urea cycle,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+997,Purine catabolism,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+998,Eicosanoid metabolism,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+999,Methionine and cysteine metabolism,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1000,Lysine metabolism,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1001,Starch and sucrose metabolism,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1002,Pentose phosphate pathway,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1003,NAD metabolism,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1004,Vitamin A metabolism,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1005,beta-Alanine metabolism,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1006,Triacylglycerol synthesis,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1007,Glyoxylate and dicarboxylate metabolism,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1008,Glutamate metabolism,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1009,Alanine and aspartate metabolism,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1010,Histidine metabolism,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1011,Selenoamino acid metabolism,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1012,Tetrahydrobiopterin metabolism,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1013,Glutathione metabolism,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1014,Propanoate metabolism,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1015,Biotin metabolism,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1016,Limonene and pinene degradation,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1017,Phenylalanine metabolism,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1018,ROS detoxification,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1019,Glycolysis/gluconeogenesis,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1020,Pyrimidine synthesis,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1021,Heme synthesis,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1022,Galactose metabolism,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1023,Purine synthesis,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1024,"Transport, extracellular",5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1025,Miscellaneous,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1026,Hyaluronan metabolism,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1027,Fructose and mannose metabolism,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1028,C5-branched dibasic acid metabolism,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1029,Oxidative phosphorylation,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1030,N-glycan degradation,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1031,Nucleotide salvage pathway,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1032,Vitamin B2 metabolism,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1033,Butanoate metabolism,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1034,Vitamin C metabolism,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1035,Cytochrome metabolism,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1036,Vitamin B6 metabolism,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1037,Taurine and hypotaurine metabolism,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1038,Phosphatidylinositol phosphate metabolism,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1039,"Transport, mitochondrial",5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1040,Nucleotide sugar metabolism,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1041,Alkaloid synthesis,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1042,CoA synthesis,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1043,"Stilbene, coumarine and lignin synthesis",5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1044,O-glycan synthesis,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1045,Ubiquinone synthesis,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1046,CoA catabolism,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1047,Citric acid cycle,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1048,"Transport, lysosomal",5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1049,Vitamin B12 metabolism,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1050,N-glycan synthesis,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1051,D-alanine metabolism,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1052,Thiamine metabolism,5BM_diffexpr-nonnaive-cluster14,1.0,1.0,1.0
+1053,Fatty acid oxidation,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1054,Nucleotide interconversion,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1055,Keratan sulfate degradation,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1056,Sphingolipid metabolism,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1057,Tyrosine metabolism,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1058,Keratan sulfate synthesis,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1059,Steroid metabolism,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1060,Chondroitin synthesis,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1061,Tryptophan metabolism,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1062,Glycerophospholipid metabolism,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1063,Inositol phosphate metabolism,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1064,Folate metabolism,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1065,"Valine, leucine, and isoleucine metabolism",5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1066,Chondroitin sulfate degradation,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1067,Cholesterol metabolism,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1068,Arginine and Proline Metabolism,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1069,Bile acid synthesis,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1070,Fatty acid synthesis,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1071,"Glycine, serine, alanine and threonine metabolism",5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1072,Pyrimidine catabolism,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1073,Blood group synthesis,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1074,Pyruvate metabolism,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1075,Aminosugar metabolism,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1076,Heparan sulfate degradation,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1077,Urea cycle,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1078,Purine catabolism,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1079,Eicosanoid metabolism,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1080,Methionine and cysteine metabolism,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1081,Lysine metabolism,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1082,Starch and sucrose metabolism,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1083,Pentose phosphate pathway,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1084,NAD metabolism,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1085,Vitamin A metabolism,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1086,beta-Alanine metabolism,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1087,Triacylglycerol synthesis,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1088,Glyoxylate and dicarboxylate metabolism,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1089,Glutamate metabolism,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1090,Alanine and aspartate metabolism,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1091,Histidine metabolism,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1092,Selenoamino acid metabolism,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1093,Tetrahydrobiopterin metabolism,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1094,Glutathione metabolism,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1095,Propanoate metabolism,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1096,Biotin metabolism,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1097,Limonene and pinene degradation,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1098,Phenylalanine metabolism,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1099,ROS detoxification,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1100,Glycolysis/gluconeogenesis,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1101,Pyrimidine synthesis,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1102,Heme synthesis,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1103,Galactose metabolism,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1104,Purine synthesis,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1105,"Transport, extracellular",5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1106,Miscellaneous,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1107,Hyaluronan metabolism,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1108,Fructose and mannose metabolism,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1109,C5-branched dibasic acid metabolism,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1110,Oxidative phosphorylation,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1111,N-glycan degradation,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1112,Nucleotide salvage pathway,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1113,Vitamin B2 metabolism,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1114,Butanoate metabolism,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1115,Vitamin C metabolism,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1116,Cytochrome metabolism,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1117,Vitamin B6 metabolism,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1118,Taurine and hypotaurine metabolism,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1119,Phosphatidylinositol phosphate metabolism,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1120,"Transport, mitochondrial",5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1121,Nucleotide sugar metabolism,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1122,Alkaloid synthesis,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1123,CoA synthesis,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1124,"Stilbene, coumarine and lignin synthesis",5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1125,O-glycan synthesis,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1126,Ubiquinone synthesis,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1127,CoA catabolism,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1128,Citric acid cycle,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1129,"Transport, lysosomal",5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1130,Vitamin B12 metabolism,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1131,N-glycan synthesis,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1132,D-alanine metabolism,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1133,Thiamine metabolism,5BN_diffexpr-nonnaive-cluster15,1.0,1.0,1.0
+1134,Fatty acid oxidation,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1135,Nucleotide interconversion,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1136,Keratan sulfate degradation,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1137,Sphingolipid metabolism,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1138,Tyrosine metabolism,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1139,Keratan sulfate synthesis,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1140,Steroid metabolism,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1141,Chondroitin synthesis,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1142,Tryptophan metabolism,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1143,Glycerophospholipid metabolism,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1144,Inositol phosphate metabolism,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1145,Folate metabolism,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1146,"Valine, leucine, and isoleucine metabolism",5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1147,Chondroitin sulfate degradation,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1148,Cholesterol metabolism,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1149,Arginine and Proline Metabolism,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1150,Bile acid synthesis,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1151,Fatty acid synthesis,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1152,"Glycine, serine, alanine and threonine metabolism",5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1153,Pyrimidine catabolism,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1154,Blood group synthesis,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1155,Pyruvate metabolism,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1156,Aminosugar metabolism,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1157,Heparan sulfate degradation,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1158,Urea cycle,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1159,Purine catabolism,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1160,Eicosanoid metabolism,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1161,Methionine and cysteine metabolism,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1162,Lysine metabolism,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1163,Starch and sucrose metabolism,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1164,Pentose phosphate pathway,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1165,NAD metabolism,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1166,Vitamin A metabolism,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1167,beta-Alanine metabolism,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1168,Triacylglycerol synthesis,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1169,Glyoxylate and dicarboxylate metabolism,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1170,Glutamate metabolism,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1171,Alanine and aspartate metabolism,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1172,Histidine metabolism,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1173,Selenoamino acid metabolism,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1174,Tetrahydrobiopterin metabolism,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1175,Glutathione metabolism,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1176,Propanoate metabolism,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1177,Biotin metabolism,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1178,Limonene and pinene degradation,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1179,Phenylalanine metabolism,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1180,ROS detoxification,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1181,Glycolysis/gluconeogenesis,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1182,Pyrimidine synthesis,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1183,Heme synthesis,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1184,Galactose metabolism,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1185,Purine synthesis,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1186,"Transport, extracellular",5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1187,Miscellaneous,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1188,Hyaluronan metabolism,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1189,Fructose and mannose metabolism,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1190,C5-branched dibasic acid metabolism,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1191,Oxidative phosphorylation,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1192,N-glycan degradation,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1193,Nucleotide salvage pathway,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1194,Vitamin B2 metabolism,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1195,Butanoate metabolism,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1196,Vitamin C metabolism,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1197,Cytochrome metabolism,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1198,Vitamin B6 metabolism,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1199,Taurine and hypotaurine metabolism,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1200,Phosphatidylinositol phosphate metabolism,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1201,"Transport, mitochondrial",5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1202,Nucleotide sugar metabolism,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1203,Alkaloid synthesis,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1204,CoA synthesis,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1205,"Stilbene, coumarine and lignin synthesis",5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1206,O-glycan synthesis,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1207,Ubiquinone synthesis,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1208,CoA catabolism,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1209,Citric acid cycle,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1210,"Transport, lysosomal",5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1211,Vitamin B12 metabolism,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1212,N-glycan synthesis,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1213,D-alanine metabolism,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1214,Thiamine metabolism,5BO_diffexpr-nonnaive-cluster16,1.0,1.0,1.0
+1215,Fatty acid oxidation,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1216,Nucleotide interconversion,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1217,Keratan sulfate degradation,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1218,Sphingolipid metabolism,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1219,Tyrosine metabolism,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1220,Keratan sulfate synthesis,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1221,Steroid metabolism,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1222,Chondroitin synthesis,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1223,Tryptophan metabolism,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1224,Glycerophospholipid metabolism,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1225,Inositol phosphate metabolism,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1226,Folate metabolism,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1227,"Valine, leucine, and isoleucine metabolism",5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1228,Chondroitin sulfate degradation,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1229,Cholesterol metabolism,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1230,Arginine and Proline Metabolism,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1231,Bile acid synthesis,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1232,Fatty acid synthesis,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1233,"Glycine, serine, alanine and threonine metabolism",5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1234,Pyrimidine catabolism,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1235,Blood group synthesis,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1236,Pyruvate metabolism,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1237,Aminosugar metabolism,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1238,Heparan sulfate degradation,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1239,Urea cycle,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1240,Purine catabolism,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1241,Eicosanoid metabolism,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1242,Methionine and cysteine metabolism,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1243,Lysine metabolism,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1244,Starch and sucrose metabolism,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1245,Pentose phosphate pathway,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1246,NAD metabolism,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1247,Vitamin A metabolism,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1248,beta-Alanine metabolism,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1249,Triacylglycerol synthesis,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1250,Glyoxylate and dicarboxylate metabolism,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1251,Glutamate metabolism,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1252,Alanine and aspartate metabolism,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1253,Histidine metabolism,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1254,Selenoamino acid metabolism,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1255,Tetrahydrobiopterin metabolism,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1256,Glutathione metabolism,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1257,Propanoate metabolism,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1258,Biotin metabolism,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1259,Limonene and pinene degradation,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1260,Phenylalanine metabolism,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1261,ROS detoxification,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1262,Glycolysis/gluconeogenesis,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1263,Pyrimidine synthesis,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1264,Heme synthesis,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1265,Galactose metabolism,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1266,Purine synthesis,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1267,"Transport, extracellular",5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1268,Miscellaneous,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1269,Hyaluronan metabolism,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1270,Fructose and mannose metabolism,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1271,C5-branched dibasic acid metabolism,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1272,Oxidative phosphorylation,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1273,N-glycan degradation,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1274,Nucleotide salvage pathway,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1275,Vitamin B2 metabolism,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1276,Butanoate metabolism,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1277,Vitamin C metabolism,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1278,Cytochrome metabolism,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1279,Vitamin B6 metabolism,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1280,Taurine and hypotaurine metabolism,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1281,Phosphatidylinositol phosphate metabolism,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1282,"Transport, mitochondrial",5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1283,Nucleotide sugar metabolism,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1284,Alkaloid synthesis,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1285,CoA synthesis,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1286,"Stilbene, coumarine and lignin synthesis",5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1287,O-glycan synthesis,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1288,Ubiquinone synthesis,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1289,CoA catabolism,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1290,Citric acid cycle,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1291,"Transport, lysosomal",5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1292,Vitamin B12 metabolism,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1293,N-glycan synthesis,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1294,D-alanine metabolism,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1295,Thiamine metabolism,5BP_diffexpr-nonnaive-cluster17,1.0,1.0,1.0
+1296,Fatty acid oxidation,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1297,Nucleotide interconversion,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1298,Keratan sulfate degradation,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1299,Sphingolipid metabolism,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1300,Tyrosine metabolism,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1301,Keratan sulfate synthesis,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1302,Steroid metabolism,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1303,Chondroitin synthesis,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1304,Tryptophan metabolism,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1305,Glycerophospholipid metabolism,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1306,Inositol phosphate metabolism,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1307,Folate metabolism,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1308,"Valine, leucine, and isoleucine metabolism",5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1309,Chondroitin sulfate degradation,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1310,Cholesterol metabolism,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1311,Arginine and Proline Metabolism,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1312,Bile acid synthesis,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1313,Fatty acid synthesis,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1314,"Glycine, serine, alanine and threonine metabolism",5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1315,Pyrimidine catabolism,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1316,Blood group synthesis,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1317,Pyruvate metabolism,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1318,Aminosugar metabolism,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1319,Heparan sulfate degradation,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1320,Urea cycle,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1321,Purine catabolism,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1322,Eicosanoid metabolism,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1323,Methionine and cysteine metabolism,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1324,Lysine metabolism,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1325,Starch and sucrose metabolism,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1326,Pentose phosphate pathway,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1327,NAD metabolism,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1328,Vitamin A metabolism,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1329,beta-Alanine metabolism,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1330,Triacylglycerol synthesis,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1331,Glyoxylate and dicarboxylate metabolism,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1332,Glutamate metabolism,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1333,Alanine and aspartate metabolism,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1334,Histidine metabolism,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1335,Selenoamino acid metabolism,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1336,Tetrahydrobiopterin metabolism,5BQ_diffexpr-nonnaive-cluster18,0.0547673596272101,0.0547673596272101,0.11706523120316158
+1337,Glutathione metabolism,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1338,Propanoate metabolism,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1339,Biotin metabolism,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1340,Limonene and pinene degradation,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1341,Phenylalanine metabolism,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1342,ROS detoxification,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1343,Glycolysis/gluconeogenesis,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1344,Pyrimidine synthesis,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1345,Heme synthesis,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1346,Galactose metabolism,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1347,Purine synthesis,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1348,"Transport, extracellular",5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1349,Miscellaneous,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1350,Hyaluronan metabolism,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1351,Fructose and mannose metabolism,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1352,C5-branched dibasic acid metabolism,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1353,Oxidative phosphorylation,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1354,N-glycan degradation,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1355,Nucleotide salvage pathway,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1356,Vitamin B2 metabolism,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1357,Butanoate metabolism,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1358,Vitamin C metabolism,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1359,Cytochrome metabolism,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1360,Vitamin B6 metabolism,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1361,Taurine and hypotaurine metabolism,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1362,Phosphatidylinositol phosphate metabolism,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1363,"Transport, mitochondrial",5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1364,Nucleotide sugar metabolism,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1365,Alkaloid synthesis,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1366,CoA synthesis,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1367,"Stilbene, coumarine and lignin synthesis",5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1368,O-glycan synthesis,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1369,Ubiquinone synthesis,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1370,CoA catabolism,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1371,Citric acid cycle,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1372,"Transport, lysosomal",5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1373,Vitamin B12 metabolism,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1374,N-glycan synthesis,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1375,D-alanine metabolism,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1376,Thiamine metabolism,5BQ_diffexpr-nonnaive-cluster18,1.0,1.0,1.0
+1377,Fatty acid oxidation,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1378,Nucleotide interconversion,5BR_diffexpr-nonnaive-cluster20,0.007942089822618953,0.007942089822618953,0.02557087078872504
+1379,Keratan sulfate degradation,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1380,Sphingolipid metabolism,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1381,Tyrosine metabolism,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1382,Keratan sulfate synthesis,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1383,Steroid metabolism,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1384,Chondroitin synthesis,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1385,Tryptophan metabolism,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1386,Glycerophospholipid metabolism,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1387,Inositol phosphate metabolism,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1388,Folate metabolism,5BR_diffexpr-nonnaive-cluster20,0.08193744967795545,0.08193744967795545,0.26944815182558424
+1389,"Valine, leucine, and isoleucine metabolism",5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1390,Chondroitin sulfate degradation,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1391,Cholesterol metabolism,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1392,Arginine and Proline Metabolism,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1393,Bile acid synthesis,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1394,Fatty acid synthesis,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1395,"Glycine, serine, alanine and threonine metabolism",5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1396,Pyrimidine catabolism,5BR_diffexpr-nonnaive-cluster20,0.16377796462950922,0.16377796462950922,0.5767832667387064
+1397,Blood group synthesis,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1398,Pyruvate metabolism,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1399,Aminosugar metabolism,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1400,Heparan sulfate degradation,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1401,Urea cycle,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1402,Purine catabolism,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1403,Eicosanoid metabolism,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1404,Methionine and cysteine metabolism,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1405,Lysine metabolism,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1406,Starch and sucrose metabolism,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1407,Pentose phosphate pathway,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1408,NAD metabolism,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1409,Vitamin A metabolism,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1410,beta-Alanine metabolism,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1411,Triacylglycerol synthesis,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1412,Glyoxylate and dicarboxylate metabolism,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1413,Glutamate metabolism,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1414,Alanine and aspartate metabolism,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1415,Histidine metabolism,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1416,Selenoamino acid metabolism,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1417,Tetrahydrobiopterin metabolism,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1418,Glutathione metabolism,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1419,Propanoate metabolism,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1420,Biotin metabolism,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1421,Limonene and pinene degradation,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1422,Phenylalanine metabolism,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1423,ROS detoxification,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1424,Glycolysis/gluconeogenesis,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1425,Pyrimidine synthesis,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1426,Heme synthesis,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1427,Galactose metabolism,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1428,Purine synthesis,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1429,"Transport, extracellular",5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1430,Miscellaneous,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1431,Hyaluronan metabolism,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1432,Fructose and mannose metabolism,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1433,C5-branched dibasic acid metabolism,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1434,Oxidative phosphorylation,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1435,N-glycan degradation,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1436,Nucleotide salvage pathway,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1437,Vitamin B2 metabolism,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1438,Butanoate metabolism,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1439,Vitamin C metabolism,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1440,Cytochrome metabolism,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1441,Vitamin B6 metabolism,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1442,Taurine and hypotaurine metabolism,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1443,Phosphatidylinositol phosphate metabolism,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1444,"Transport, mitochondrial",5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1445,Nucleotide sugar metabolism,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1446,Alkaloid synthesis,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1447,CoA synthesis,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1448,"Stilbene, coumarine and lignin synthesis",5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1449,O-glycan synthesis,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1450,Ubiquinone synthesis,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1451,CoA catabolism,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1452,Citric acid cycle,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1453,"Transport, lysosomal",5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1454,Vitamin B12 metabolism,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1455,N-glycan synthesis,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1456,D-alanine metabolism,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1457,Thiamine metabolism,5BR_diffexpr-nonnaive-cluster20,1.0,1.0,1.0
+1458,Fatty acid oxidation,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1459,Nucleotide interconversion,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1460,Keratan sulfate degradation,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1461,Sphingolipid metabolism,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1462,Tyrosine metabolism,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1463,Keratan sulfate synthesis,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1464,Steroid metabolism,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1465,Chondroitin synthesis,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1466,Tryptophan metabolism,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1467,Glycerophospholipid metabolism,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1468,Inositol phosphate metabolism,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1469,Folate metabolism,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1470,"Valine, leucine, and isoleucine metabolism",5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1471,Chondroitin sulfate degradation,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1472,Cholesterol metabolism,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1473,Arginine and Proline Metabolism,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1474,Bile acid synthesis,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1475,Fatty acid synthesis,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1476,"Glycine, serine, alanine and threonine metabolism",5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1477,Pyrimidine catabolism,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1478,Blood group synthesis,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1479,Pyruvate metabolism,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1480,Aminosugar metabolism,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1481,Heparan sulfate degradation,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1482,Urea cycle,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1483,Purine catabolism,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1484,Eicosanoid metabolism,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1485,Methionine and cysteine metabolism,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1486,Lysine metabolism,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1487,Starch and sucrose metabolism,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1488,Pentose phosphate pathway,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1489,NAD metabolism,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1490,Vitamin A metabolism,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1491,beta-Alanine metabolism,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1492,Triacylglycerol synthesis,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1493,Glyoxylate and dicarboxylate metabolism,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1494,Glutamate metabolism,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1495,Alanine and aspartate metabolism,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1496,Histidine metabolism,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1497,Selenoamino acid metabolism,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1498,Tetrahydrobiopterin metabolism,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1499,Glutathione metabolism,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1500,Propanoate metabolism,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1501,Biotin metabolism,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1502,Limonene and pinene degradation,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1503,Phenylalanine metabolism,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1504,ROS detoxification,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1505,Glycolysis/gluconeogenesis,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1506,Pyrimidine synthesis,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1507,Heme synthesis,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1508,Galactose metabolism,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1509,Purine synthesis,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1510,"Transport, extracellular",5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1511,Miscellaneous,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1512,Hyaluronan metabolism,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1513,Fructose and mannose metabolism,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1514,C5-branched dibasic acid metabolism,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1515,Oxidative phosphorylation,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1516,N-glycan degradation,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1517,Nucleotide salvage pathway,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1518,Vitamin B2 metabolism,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1519,Butanoate metabolism,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1520,Vitamin C metabolism,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1521,Cytochrome metabolism,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1522,Vitamin B6 metabolism,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1523,Taurine and hypotaurine metabolism,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1524,Phosphatidylinositol phosphate metabolism,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1525,"Transport, mitochondrial",5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1526,Nucleotide sugar metabolism,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1527,Alkaloid synthesis,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1528,CoA synthesis,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1529,"Stilbene, coumarine and lignin synthesis",5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1530,O-glycan synthesis,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1531,Ubiquinone synthesis,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1532,CoA catabolism,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1533,Citric acid cycle,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1534,"Transport, lysosomal",5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1535,Vitamin B12 metabolism,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1536,N-glycan synthesis,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1537,D-alanine metabolism,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0
+1538,Thiamine metabolism,5BS_diffexpr-nonnaive-cluster21,1.0,1.0,1.0

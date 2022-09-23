@@ -1,7 +1,7 @@
 import numpy as np
 from scipy import stats
 from statsmodels.stats import multitest
-
+from scipy import interpolate
 
 def hypergeometric_test(total_genes_expressed, n_genes_of_interest, n_genes_picked, n_overlap):
     '''
@@ -44,7 +44,8 @@ def adjust_p_value_qval(pv, pi_0=1):
     m = len(pv)
     if pi_0 is None:
         m0 = []
-        for i in np.arange(0, 0.9, 0.01):
+        lam = np.arange(0, 0.9, 0.01)
+        for i in lam:
             m0.append(np.sum(pv > i)/(1-i))
         pi_0 = np.array(m0)/m
         tck = interpolate.splrep(lam, pi_0, k=3)

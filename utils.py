@@ -1,5 +1,6 @@
 import numpy as np
 from scipy import stats
+from statsmodels.stats import multitest
 
 
 def hypergeometric_test(total_genes_expressed, n_genes_of_interest, n_genes_picked, n_overlap):
@@ -25,6 +26,57 @@ def hypergeometric_test(total_genes_expressed, n_genes_of_interest, n_genes_pick
     p_val = hypergeom_model.sf(n_overlap-1)
     return p_val
 
+def adjust_p_value_qval(pv, pi_0=1):
+    '''
+    Storey method: adjusting p-value for multiple tests
+    
+    Parameters
+    ----------
+    p_val_list : list
+    A list of p-values to be adjusted.
+    pi_0 : float
+    Estimated proportion of true null hypothesis
+
+    Returns
+    -------
+    The adjusted p-values.
+    '''
+    m = len(pv)
+    if pi_0 is None:
+        m0 = []
+        for i in np.arange(0, 0.9, 0.01):
+            m0.append(np.sum(pv > i)/(1-i))
+        pi_0 = np.array(m0)/m
+        tck = interpolate.splrep(lam, pi_0, k=3)
+        pi0 = interpolate.splev(lam[-1], tck)
+        pi_0 = pi_0[-1] if pi_0[-1] < 1 else 1
+
+    sorted_index = np.argsort(pv)
+    qv_le = np.array([np.sum(np.array(pv)<=item) for item in pv])
+    fdr = pv*pi_0*m/(qv_le)
+    for i in range(m):
+        idx = sorted_index[::-1][i]
+        if i == 0:
+            fdr[idx] = min(fdr[idx], 1)
+        else:
+            fdr[idx] = min(fdr[idx], fdr[sorted_index[::-1][i-1]])
+    return fdr
+
+def adjust_p_value_bh(p_val_list):
+    '''
+    Benjamini and Hochberg method: adjusting p-value for multiple tests
+    
+    Parameters
+    ----------
+    p_val_list : list
+    A list of p-values to be adjusted.
+
+    Returns
+    -------
+    The adjusted p-values.
+    '''
+    res = multitest.multipletests(p_val_list, method='fdr_bh')
+    return res[1]
 
 def adjust_p_value_fdr(p_val_list):
     '''
@@ -40,7 +92,7 @@ def adjust_p_value_fdr(p_val_list):
     The adjusted p-values.
     '''
     m = len(p_val_list)
-    k = np.argsort(p_val_list) + 1
+    k = np.array([np.sum(np.array(p_val_list)<=item) for item in p_val_list])
     p_val_adj = np.array(p_val_list) * m/k
     p_val_adj[p_val_adj>=1] = 1
     return p_val_adj

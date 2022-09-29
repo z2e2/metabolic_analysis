@@ -1,0 +1,34 @@
+,term,p,padj,q
+0,Fatty acid oxidation,,,
+1,Nucleotide interconversion,0.14418477988759362,,0.0
+2,Steroid metabolism,0.3543070179650055,,0.0
+3,Inositol phosphate metabolism,0.707671896759962,,0.0
+4,Cholesterol metabolism,,,
+5,Pyrimidine catabolism,,,
+6,Urea cycle,,,
+7,Starch and sucrose metabolism,0.252918683603649,,0.0
+8,Triacylglycerol synthesis,,,
+9,Glyoxylate and dicarboxylate metabolism,0.4182031029215086,,0.0
+10,Pyrimidine synthesis,,,
+11,Galactose metabolism,,,
+12,Oxidative phosphorylation,,,
+13,Keratan sulfate degradation,0.20474005453589167,,0.0
+14,Tyrosine metabolism,0.027727833574719033,,0.0
+15,Tryptophan metabolism,0.0349793431782941,,0.0
+16,Folate metabolism,0.20474005453589167,,0.0
+17,Chondroitin sulfate degradation,0.18800101499522362,,0.0
+18,Arginine and Proline Metabolism,0.49719436126877725,,0.0
+19,Pyruvate metabolism,0.4757867812727822,,0.0
+20,Aminosugar metabolism,0.093181881420503,,0.0
+21,Purine catabolism,0.23719188670386107,,0.0
+22,Eicosanoid metabolism,0.3268288762605856,,0.0
+23,Pentose phosphate pathway,0.20474005453589167,,0.0
+24,Glutamate metabolism,0.20474005453589167,,0.0
+25,Histidine metabolism,0.3543070179650055,,0.0
+26,Glutathione metabolism,0.0021333180632764387,,0.0
+27,Miscellaneous,0.20474005453589167,,0.0
+28,Hyaluronan metabolism,0.1356442669960767,,0.0
+29,N-glycan degradation,0.11745371057675748,,0.0
+30,Nucleotide salvage pathway,0.04078955770422722,,0.0
+31,Vitamin C metabolism,0.23719188670386107,,0.0
+32,"Transport, lysosomal",0.3407108213127608,,0.0

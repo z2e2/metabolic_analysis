@@ -1,0 +1,19 @@
+,term,p,padj,q
+0,"Valine, leucine, and isoleucine metabolism",,,
+1,Chondroitin sulfate degradation,,,
+2,Aminosugar metabolism,0.9006677753071565,,0.8187888866428695
+3,Methionine and cysteine metabolism,,,
+4,Lysine metabolism,0.8884953301053411,,0.8187888866428695
+5,Pentose phosphate pathway,0.7190050644705959,,0.8187888866428695
+6,NAD metabolism,0.08628297924050797,,0.7843907203682543
+7,Selenoamino acid metabolism,0.7496520922050904,,0.8187888866428695
+8,Pyrimidine synthesis,,,
+9,Purine synthesis,,,
+10,C5-branched dibasic acid metabolism,,,
+11,Oxidative phosphorylation,0.5808740616110188,,0.8187888866428695
+12,Butanoate metabolism,,,
+13,"Stilbene, coumarine and lignin synthesis",,,
+14,"Transport, lysosomal",0.5669142987913466,,0.8187888866428695
+15,Propanoate metabolism,0.7496520922050904,,0.8187888866428695
+16,ROS detoxification,0.29251472395147443,,0.8187888866428695
+17,Heme synthesis,0.4995271048386481,,0.8187888866428695

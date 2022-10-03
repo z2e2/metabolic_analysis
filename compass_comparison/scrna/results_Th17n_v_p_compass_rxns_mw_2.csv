@@ -1,0 +1,64 @@
+,term,p,padj,q
+0,Fatty acid oxidation,0.5186921008731697,1.0,1.0
+1,Nucleotide interconversion,0.0377557403422798,1.0,1.0
+2,Keratan sulfate degradation,1.0,1.0,1.0
+3,Sphingolipid metabolism,1.0,1.0,1.0
+4,Keratan sulfate synthesis,0.3060818211519749,1.0,1.0
+5,Chondroitin synthesis,0.41235951815165317,1.0,1.0
+6,Tryptophan metabolism,0.4681678857547494,1.0,1.0
+7,Glycerophospholipid metabolism,1.0,1.0,1.0
+8,Inositol phosphate metabolism,1.0,1.0,1.0
+9,Folate metabolism,1.0,1.0,1.0
+10,"Valine, leucine, and isoleucine metabolism",1.0,1.0,1.0
+11,Chondroitin sulfate degradation,1.0,1.0,1.0
+12,Cholesterol metabolism,1.0,1.0,1.0
+13,Arginine and Proline Metabolism,1.0,1.0,1.0
+14,Fatty acid synthesis,1.0,1.0,1.0
+15,"Glycine, serine, alanine and threonine metabolism",1.0,1.0,1.0
+16,Pyrimidine catabolism,0.0746965374575174,1.0,1.0
+17,Pyruvate metabolism,1.0,1.0,1.0
+18,Aminosugar metabolism,0.5186921008731697,1.0,1.0
+19,Heparan sulfate degradation,1.0,1.0,1.0
+20,Urea cycle,0.2583898083403895,1.0,1.0
+21,Purine catabolism,0.2583898083403895,1.0,1.0
+22,Methionine and cysteine metabolism,1.0,1.0,1.0
+23,Lysine metabolism,0.4681678857547494,1.0,1.0
+24,Starch and sucrose metabolism,1.0,1.0,1.0
+25,Pentose phosphate pathway,1.0,1.0,1.0
+26,NAD metabolism,0.002501413085164704,0.15758902436537636,0.15758902436537633
+27,beta-Alanine metabolism,0.3719486823720038,1.0,1.0
+28,Glyoxylate and dicarboxylate metabolism,1.0,1.0,1.0
+29,Glutamate metabolism,1.0,1.0,1.0
+30,Selenoamino acid metabolism,1.0,1.0,1.0
+31,Tetrahydrobiopterin metabolism,1.0,1.0,1.0
+32,Glutathione metabolism,1.0,1.0,1.0
+33,Propanoate metabolism,1.0,1.0,1.0
+34,Biotin metabolism,1.0,1.0,1.0
+35,Limonene and pinene degradation,1.0,1.0,1.0
+36,ROS detoxification,1.0,1.0,1.0
+37,Glycolysis/gluconeogenesis,1.0,1.0,1.0
+38,Pyrimidine synthesis,1.0,1.0,1.0
+39,Heme synthesis,0.18065871975734918,1.0,1.0
+40,Galactose metabolism,0.20743166214218983,1.0,1.0
+41,Purine synthesis,1.0,1.0,1.0
+42,Miscellaneous,1.0,1.0,1.0
+43,Fructose and mannose metabolism,1.0,1.0,1.0
+44,C5-branched dibasic acid metabolism,1.0,1.0,1.0
+45,Oxidative phosphorylation,1.0,1.0,1.0
+46,N-glycan degradation,1.0,1.0,1.0
+47,Vitamin B2 metabolism,1.0,1.0,1.0
+48,Butanoate metabolism,1.0,1.0,1.0
+49,Vitamin C metabolism,1.0,1.0,1.0
+50,Phosphatidylinositol phosphate metabolism,1.0,1.0,1.0
+51,"Transport, mitochondrial",1.0,1.0,1.0
+52,Nucleotide sugar metabolism,1.0,1.0,1.0
+53,CoA synthesis,1.0,1.0,1.0
+54,"Stilbene, coumarine and lignin synthesis",1.0,1.0,1.0
+55,O-glycan synthesis,1.0,1.0,1.0
+56,Ubiquinone synthesis,1.0,1.0,1.0
+57,CoA catabolism,1.0,1.0,1.0
+58,Citric acid cycle,1.0,1.0,1.0
+59,"Transport, lysosomal",0.43158230133461406,1.0,1.0
+60,Vitamin B12 metabolism,1.0,1.0,1.0
+61,N-glycan synthesis,0.12437877974650376,1.0,1.0
+62,Thiamine metabolism,1.0,1.0,1.0

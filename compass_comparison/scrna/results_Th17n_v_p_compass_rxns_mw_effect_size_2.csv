@@ -1,0 +1,64 @@
+,pvn,nvp,term
+0,1.704452690166976,1.391969696969697,Fatty acid oxidation
+1,1.973576799140709,2.686257309941521,Nucleotide interconversion
+2,,,Keratan sulfate degradation
+3,,,Sphingolipid metabolism
+4,3.408905380333952,2.783939393939394,Keratan sulfate synthesis
+5,,1.9139583333333334,Chondroitin synthesis
+6,1.9735767991407092,1.6117543859649124,Tryptophan metabolism
+7,1.013458356315499,,Glycerophospholipid metabolism
+8,0.8332879818594104,,Inositol phosphate metabolism
+9,,,Folate metabolism
+10,1.3392128279883382,,"Valine, leucine, and isoleucine metabolism"
+11,,,Chondroitin sulfate degradation
+12,,,Cholesterol metabolism
+13,3.408905380333952,,Arginine and Proline Metabolism
+14,6.2496598639455785,,Fatty acid synthesis
+15,3.1248299319727892,,"Glycine, serine, alanine and threonine metabolism"
+16,,4.374761904761905,Pyrimidine catabolism
+17,,,Pyruvate metabolism
+18,1.704452690166976,1.391969696969697,Aminosugar metabolism
+19,,,Heparan sulfate degradation
+20,4.166439909297052,3.4025925925925926,Urea cycle
+21,,3.4025925925925926,Purine catabolism
+22,2.343622448979592,,Methionine and cysteine metabolism
+23,1.9735767991407092,1.6117543859649124,Lysine metabolism
+24,,,Starch and sucrose metabolism
+25,,,Pentose phosphate pathway
+26,,10.207777777777778,NAD metabolism
+27,,2.1873809523809524,beta-Alanine metabolism
+28,,,Glyoxylate and dicarboxylate metabolism
+29,5.356851311953353,,Glutamate metabolism
+30,2.8844583987441132,,Selenoamino acid metabolism
+31,,,Tetrahydrobiopterin metabolism
+32,,,Glutathione metabolism
+33,,,Propanoate metabolism
+34,,,Biotin metabolism
+35,,,Limonene and pinene degradation
+36,,,ROS detoxification
+37,,,Glycolysis/gluconeogenesis
+38,,,Pyrimidine synthesis
+39,,5.103888888888889,Heme synthesis
+40,,4.374761904761905,Galactose metabolism
+41,9.374489795918368,,Purine synthesis
+42,,,Miscellaneous
+43,,,Fructose and mannose metabolism
+44,,,C5-branched dibasic acid metabolism
+45,0.6944066515495088,,Oxidative phosphorylation
+46,,,N-glycan degradation
+47,,,Vitamin B2 metabolism
+48,,,Butanoate metabolism
+49,,,Vitamin C metabolism
+50,,,Phosphatidylinositol phosphate metabolism
+51,,,"Transport, mitochondrial"
+52,,,Nucleotide sugar metabolism
+53,,,CoA synthesis
+54,,,"Stilbene, coumarine and lignin synthesis"
+55,,,O-glycan synthesis
+56,,,Ubiquinone synthesis
+57,,,CoA catabolism
+58,,,Citric acid cycle
+59,,1.801372549019608,"Transport, lysosomal"
+60,,,Vitamin B12 metabolism
+61,,7.655833333333334,N-glycan synthesis
+62,,,Thiamine metabolism
